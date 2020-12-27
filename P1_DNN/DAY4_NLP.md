@@ -53,18 +53,40 @@ Attentionは辞書オブジェクト
 QUeryに一致するkeyを索引し、対応するvalueを取り出す操作であると見做すことができる。
 辞書オブジェクトの機能と同じ
 
+#### Attention種類
+- Dot-prodct Attention
+- Attentive Attention
+
 ### Transformer
-RNNを使わない。
+- RNNを使わない。
 
-Encoderでは、はじめに文字の位置情報を単語ベクトルに付加
+- Encoderでは、はじめに文字の位置情報を単語ベクトルに付加
 
-Decoderでは、未来の単語を見ないようにマスク
+- Decoderでは、未来の単語を見ないようにマスク
 
 
 - ソース・ターゲット注意機構
 - 自己注意機構
 
-セルフアテンションが重要：CNNと類比して考えることができる
+- セルフアテンションが重要：CNNと類比して考えることができる
+
+### Position-Wise Feed-Forward Networks
+
+- 位置情報を保持したまま順伝播させる
+
+- ２層の全結合NN
+- 線形変換 -> ReLu -> 線形変換
 
 
+### Multi-Head Attention
 
+- 重みパラメタの異なる８個のヘッドを使用
+
+- ８個のScaled Dot-Product
+- Attentionの出力をConcat
+- それぞれのヘッドが異なる種類の情報を収集
+
+### Position Encoding
+- 単語の位置情報をエンコード
+
+- 縦軸が単語の位置、横軸が成分の次元
