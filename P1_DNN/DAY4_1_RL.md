@@ -92,6 +92,65 @@ NNでは、誤差を小さくなるように学習をする
 
 ## Section 2) Alpha Go
 
+### AlphaGo Lee
+
+
+#### Policy Net
+
+19 X 19マスの着手予想確率を出力する(２次元データ：SoftMax Layer)
+
+#### Value Net
+
+出力は、現局面の勝率を-1 ~ 1であらわしたもの（バイナリデータ：TanH Layer)
+
+### 強化学習ステップ
+
+- 教師あり学習によるRollOutPolicyとPolicyNetの学習
+- 強化学習によるPolicyNetの学習
+  - PolicyNetとPolicyPoolからランダムに選択されたPolicyNetと対局シミュレーションを行う。
+- 強化学習によるValueNetの学習
+
+#### RollOut Policy
+
+PollicyNetよりも100倍速い
+
+#### モンテカルロ木探索
+強化学習手法。
+
+### AlphaGo Zero
+- 教師あり学習を行わず、強化学習のみで作成
+- 特徴入力からヒューリスティックな要素（人間が役に立つと判断し付加した情報）を排除、石の配置のみとした。
+- PolicyNetとValueNetをひとつのネットワークに統合
+- Residual Netを導入
+- モンテカルロ木探索からRollOutシミュレーションをなくした
+
+
+
+#### Residual Net/Block
+- ネットワークにショートカットを作る(勾配消失・爆発が起きづらくなる)
+- 100層を超えるネットワークで安定した学習が可能になった(AlphaGo Zeroでは39層)
+- Convolution > BatchNorm > ReLU > Concolution > BatchNorm > Add(ショートカットの入力) > ReLUという構造
+- ショートカットにより、層数の違うNetworkのアンサンブル効果が得られる
+
+AlphaGo Zeroでは、この後に、二つの出力（PolicyとValue）に経路を分割する。
+
+
+
+##### AlphaGo Zeroでの工夫
+###### Residual Blockに対する工夫
+- Bottleneck
+  - １層目で次元削減を行い、３層目で次元復元
+- PreActivation
+  - BatchNorm > ReLU > Convolution > BatchNorm > ReLU > Convolution > Add
+
+###### Network構造に対する工夫
+- WideResNet
+   - ConvolutionのFilter数をK倍にしたResNet
+   - GPUを効率的に利用
+- PyramidNet
+   - WideResNetに対する改良
+   - 各層でFilter数を増やしていくResNet
+
 ## Section 3) 軽量化・高速化技術
 ### 3-1 モデル並列
 ### 3-2 データ並列
