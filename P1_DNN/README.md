@@ -41,4 +41,23 @@ https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Rec
   
   ノーフリーランチ定理
   
+  ## DAY1
+  
+  論点整理・考察
+  
+  実装演習・考察
+  
+### 関連参考
+  
+## DAY2
+
+## DAY3
+  
+### 関連記事レポート
+  
+[オルタナティブデータと自然言語処理(NLP)](https://github.com/YoshiyukiKono/dsml_01_nlp)
+  
+## DAY4
+  
+
   
