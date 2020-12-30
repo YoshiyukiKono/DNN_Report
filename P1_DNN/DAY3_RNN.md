@@ -28,12 +28,35 @@ RNNでは、重みが３種類
 #### 1-2-1 BPTTとは
 #### 1-2-2 BPTTの数学的記述
 #### 1-2-3 BPTTの全体像
+
 ## Section 2) LSTM
-### 2-1 CEC
+### 2-1 CEC (Constant Error Carousel)
 ### 2-2 入力ゲートと出力ゲート
 ### 2-3 忘却ゲート
 ### 2-4 覗き穴結合
-## Section 3) GRU
+
+### 実装
+#### 1.
+```
+c_t = c_t-1 ⊗ f) ̟⊕　(g ⊗ i)
+```
+```
+c_next = (c_prev * forget_gate) + ( g * input_gate)
+```
+#### 2. 隠れベクトル計算
+
+```
+h_next = np.tanh(h_prev) * outputgate
+```
+
+## Section 3) GRU (Gated Recurrent Unit)
+- LSTMよりも内部構造が単純、学習にかかる時間が少ない
+- リセットゲートと更新ゲートの２つのゲートを持つ
+- LSTM同様RNNの勾配消失問題を緩和
+- LSTMの持っている記憶セルはない
+
+LSTMとGRUはタスクによって使い分ける必要がある。
+
 ## Section 4) 双方向RNN
 ## Section 5) Seq2Seq
 ## Section 6) Word2vec
