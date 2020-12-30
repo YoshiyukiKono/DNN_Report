@@ -15,3 +15,14 @@ xで微分する＝xが(微小に)変化した際にyがどれだけ(微小に)�
 
 z = x*yのとき
 ∂z/∂x = ∂/∂x (x*y) = y
+
+# GAN
+
+## LAPGAN
+CNNを利用。低解像度画像から高解像度画像を生成
+## ACGAN
+Generatorに入力ノイズとしてのベクトルと入力画像のクラス情報を同時に与え、Discriminatorが生成画像の真偽に加え、クラスの判別も行う
+## DCGAN
+Generatorに入力ノイズとしてベクトルだけを与え、Discriminatorが生成画像の真偽判定を行う
+## SNGAN
+Spectral normalizationを提案
