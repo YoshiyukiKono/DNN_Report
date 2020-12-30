@@ -90,3 +90,11 @@ QUeryに一致するkeyを索引し、対応するvalueを取り出す操作で�
 - 単語の位置情報をエンコード
 
 - 縦軸が単語の位置、横軸が成分の次元
+
+## BERT (Bidirectional Encoder Rrepresentations from Transformers
+- Transformerのエンコーダーで構成される
+- 事前学習と再学習の２段階で学習が行われる
+
+### OpenAI GPT
+- unidirectional モデル
+- 過去の単語だけを使って将来の単語を予想
