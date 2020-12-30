@@ -211,9 +211,13 @@ params[key] -= self.lr * grads[key] * ( 1 / np.sqrt(self.h[key' + 1e-7))
 パラメータの更新に過去の勾配も用いる
 
 ```
-
+self.v[key] = self.momentum * self.v[key] - self.lr * grads[key]
 ```
 #### RMSprop
+AdaGradの更新をしばらく行っていくと、更新量がゼロに近づいていき、パラメータ更新を行うことができなくなる問題を解決するために開発された。
+
+AdaGradに加えて、時間が経過するほど更新幅が小さくなるようにdecayを用いて学習率を計算。
+
 
 
 
