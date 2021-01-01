@@ -36,15 +36,18 @@
 
 [要点のまとめ](./05_Algorithm.md)
 
-[実装演習結果・考察(numpy)](./notebook/)
+[k-means 実装演習結果・考察(numpy)](./notebook/np_kmeans.ipynb)
 
-[実装演習結果(sklearn)](./notebook/)
+[k-means 実装演習結果(sklearn)](./notebook/skl_kmeans.ipynb)
+
+
+[k-NN 実装演習結果・考察(numpy)](./notebook/np_knn.ipynb)
+
 
 ## サポートベクターマシン
 
 [要点のまとめ](./07_SVM.md)
 
-[実装演習結果・考察(numpy)](./notebook/)
+[実装演習結果・考察(numpy)](./notebook/np_svm.ipynb)
 
-[実装演習結果(sklearn)](./notebook/)
 
