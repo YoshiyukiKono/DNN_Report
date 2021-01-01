@@ -13,9 +13,7 @@
 
 [要点のまとめ](./02_Nonlinear-regression.md)
 
-[実装演習結果・考察(numpy)](./notebook/)
-
-[実装演習結果(sklearn)](./notebook/skl_nonlinear_regression.ipynb)
+[実装演習結果・考察(sklearn/Keras)](./notebook/skl_nonlinear_regression.ipynb)
 
 ## ロジスティック回帰
 
