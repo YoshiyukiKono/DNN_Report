@@ -7,7 +7,7 @@
 
 [実装演習結果(sklearn)]()
 
-[実装演習結果(numpy)]()
+[実装演習結果・考察(numpy)](./notebook/np_regression.ipynb)
 
 ## 非線形モデル
 
