@@ -13,39 +13,40 @@
 
 [要点のまとめ](./.md)
 
-[実装演習結果(sklearn)]()
+[実装演習結果・考察(numpy)](./notebook/)
 
-[実装演習結果(numpy)]()
+[実装演習結果(sklearn)](./notebook/)
 
 ## ロジスティック回帰
 
-[要点のまとめ](./.md)
+[要点のまとめ](./03_Logistic-regression.md)
 
-[実装演習結果(sklearn)]()
+[実装演習結果・考察(numpy)](./notebook/np_logistic_regression.ipynb)
 
-[実装演習結果(numpy)]()
+[実装演習結果(sklearn)](./notebook/skl_logistic_regression.ipynb)
 
 ## 主成分分析
 
 [要点のまとめ](./.md)
 
-[実装演習結果(sklearn)]()
+[実装演習結果・考察(numpy)](./notebook/)
 
-[実装演習結果(numpy)]()
+[実装演習結果(sklearn)](./notebook/)
+
 
 ## アルゴリズム
 
 [要点のまとめ](./.md)
 
-[実装演習結果(sklearn)]()
+[実装演習結果・考察(numpy)](./notebook/)
 
-[実装演習結果(numpy)]()
+[実装演習結果(sklearn)](./notebook/)
 
 ## サポートベクターマシン
 
 [要点のまとめ](./.md)
 
-[実装演習結果(sklearn)]()
+[実装演習結果・考察(numpy)](./notebook/)
 
-[実装演習結果(numpy)]()
+[実装演習結果(sklearn)](./notebook/)
 
