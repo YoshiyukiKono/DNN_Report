@@ -27,9 +27,9 @@
 
 [要点のまとめ](./04_PCA.md)
 
-[実装演習結果・考察(numpy)](./notebook/)
+[実装演習結果・考察(numpy)](./notebook/np_pca.ipynb)
 
-[実装演習結果(sklearn)](./notebook/)
+[実装演習結果(sklearn)](./notebook/skl_pca.ipynb)
 
 
 ## アルゴリズム
