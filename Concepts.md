@@ -1,7 +1,6 @@
-## 概念
+## 機械学習・深層学習 概念
 
-Pattern Recognition and Machine Learning by Christopher M. Bishop
-https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+[Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
 ### 識別モデルと生成モデル
 
