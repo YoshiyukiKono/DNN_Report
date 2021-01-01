@@ -5,9 +5,9 @@
 ## 線形回帰モデル
 [要点のまとめ](./01_Linear-Regression.md)
 
-[実装演習結果(sklearn)]()
-
 [実装演習結果・考察(numpy)](./notebook/np_regression.ipynb)
+
+[実装演習結果(sklearn)](./notebook/skl_regression.ipynb)
 
 ## 非線形モデル
 
