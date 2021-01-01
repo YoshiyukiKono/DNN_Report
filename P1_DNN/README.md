@@ -4,17 +4,21 @@
 
 
   
-  ## DAY1
+## DAY1
   
-  論点整理・考察
-  
-  実装演習・考察
+[要点のまとめ](./DAY1_NN.md)
+
+[実装演習結果・考察](./notebook/.ipynb)
   
 ### 関連参考
   
 ## DAY2
 
+[要点のまとめ](./DAY2_CNN.md)
+
 ## DAY3
+
+[要点のまとめ](./DAY3_RNN.md)
   
 ### 関連記事レポート
   
@@ -22,5 +26,12 @@
   
 ## DAY4
   
+### 強化学習
+[要点のまとめ](./DAY4_1_RL.md)
 
-  
+### NLP
+[要点のまとめ](./DAY4_NLP.md)
+
+
+### Object Detection and Semantic Segmentation
+[要点のまとめ](./DAY4_OD_SS.md)
