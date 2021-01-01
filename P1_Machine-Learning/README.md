@@ -15,7 +15,7 @@
 
 [実装演習結果・考察(numpy)](./notebook/)
 
-[実装演習結果(sklearn)](./notebook/)
+[実装演習結果(sklearn)](./notebook/skl_nonlinear regression.ipynb)
 
 ## ロジスティック回帰
 
