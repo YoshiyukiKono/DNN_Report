@@ -38,7 +38,7 @@
 
 [2_4_optimizer](./notebook/lesson_2/2_4_optimizer.ipynb)
 
-[2_5_overfiting TODO](./notebook/lesson_2/2_5_overfiting.ipynb)
+[2_5_overfiting](./notebook/lesson_2/2_5_overfiting.ipynb)
 
 [2_6_simple_convolution_network](./notebook/lesson_2/2_6_simple_convolution_network.ipynb)
 
