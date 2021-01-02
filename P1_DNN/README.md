@@ -30,25 +30,31 @@
 ## DAY2
 
 ## 実装演習結果・考察
-[](./notebook/lesson_2/.ipynb)
+[2_1_network_modified](./notebook/lesson_2/2_1_network_modified.ipynb)
 
-[](./notebook/lesson_2/.ipynb)
+[2_2_1_vanishing_gradient](./notebook/lesson_2/2_2_1_vanishing_gradient.ipynb)
 
-[](./notebook/lesson_2/.ipynb)
+[2_3_batch_normalization](./notebook/lesson_2/2_3_batch_normalization.ipynb)
 
-[](./notebook/lesson_2/.ipynb)
+[2_4_optimizer](./notebook/lesson_2/2_4_optimizer.ipynb)
 
-[](./notebook/lesson_2/.ipynb)
+[2_5_overfiting TODO](./notebook/lesson_2/2_5_overfiting.ipynb)
 
-[](./notebook/lesson_2/.ipynb)
+[2_6_simple_convolution_network](./notebook/lesson_2/2_6_simple_convolution_network.ipynb)
+
+[2_7_double_convolution_network](./notebook/lesson_2/2_7_double_convolution_network.ipynb)
+
+[2_8_deep_convolution_net](./notebook/lesson_2/2_8_deep_convolution_net.ipynb)
 ### CNN
 
 [要点のまとめ](./DAY2_CNN.md)
 
 ## DAY3
 
-## 実装演習結果・考察
-[](./notebook/lesson_3/.ipynb)
+## 実装演習結果・考察 TODO
+[3_1_simple_RNN](./notebook/lesson_3/3_1_simple_RNN.ipynb)
+
+[3_3_predict_sin](./notebook/lesson_3/3_3_predict_sin.ipynb)
 
 ### RNN
 [要点のまとめ](./DAY3_RNN.md)
@@ -62,8 +68,10 @@
 ### 強化学習
 [要点のまとめ](./DAY4_1_RL.md)
 
-## 実装演習結果・考察
-[](./notebook/lesson_4/.ipynb)
+## 実装演習結果・考察　TODO
+[4_1_tensorflow_codes](./notebook/lesson_4/4_1_tensorflow_codes.ipynb)
+
+[4_3_keras_codes](./notebook/lesson_4/4_3_keras_codes.ipynb)
 
 #### 関連記事レポート
 [DRL_P1_Navigation](https://github.com/YoshiyukiKono/DRL_P1_Navigation)
