@@ -17,7 +17,7 @@
 
 [実装演習結果・考察(sklearn/Keras)](./notebook/skl_nonlinear_regression.ipynb)
 
-## 参考情報・関連レポート
+### 参考情報・関連レポート
 
 [バイアス-バリアンス分解：機械学習の性能評価](https://www.hellocybernetics.tech/entry/2017/01/24/100415)
 
@@ -32,7 +32,7 @@
 
 [実装演習結果(sklearn)](./notebook/skl_logistic_regression.ipynb)
 
-## 参考情報・関連レポート
+### 参考情報・関連レポート
 
 [最尤推定量とは？初めての人にもわかる解説](https://ai-trend.jp/basic-study/estimator/maximum-likelihood-estimation/)
 
@@ -46,7 +46,7 @@
 
 [実装演習結果(sklearn)](./notebook/skl_pca.ipynb)
 
-## 参考情報・関連レポート
+### 参考情報・関連レポート
 
 [データ解析 第5回： 主成分分析](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/dataan201905.pdf)
 
@@ -74,4 +74,4 @@
 
 [実装演習結果・考察(numpy)](./notebook/np_svm.ipynb)
 
-
+### 参考情報・関連レポート
