@@ -12,7 +12,7 @@
 [実装演習結果(sklearn)](./notebook/skl_regression.ipynb)
 
 
-### 参考情報・関連レポート
+#### 参考情報・関連レポート
 [５分でわかる！「回帰係数」の求め方（回帰直線の傾き）](https://blog.apar.jp/data-analysis/5967/#toc2)
 
 回帰係数の式と予測値導出について参考にした。
@@ -23,7 +23,7 @@
 
 [実装演習結果・考察(sklearn/Keras)](./notebook/skl_nonlinear_regression.ipynb)
 
-### 参考情報・関連レポート
+#### 参考情報・関連レポート
 
 [バイアス-バリアンス分解：機械学習の性能評価](https://www.hellocybernetics.tech/entry/2017/01/24/100415)
 
@@ -38,7 +38,7 @@
 
 [実装演習結果(sklearn)](./notebook/skl_logistic_regression.ipynb)
 
-### 参考情報・関連レポート
+#### 参考情報・関連レポート
 
 [最尤推定量とは？初めての人にもわかる解説](https://ai-trend.jp/basic-study/estimator/maximum-likelihood-estimation/)
 
@@ -52,7 +52,7 @@
 
 [実装演習結果(sklearn)](./notebook/skl_pca.ipynb)
 
-### 参考情報・関連レポート
+#### 参考情報・関連レポート
 
 [データ解析 第5回： 主成分分析](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/dataan201905.pdf)
 
@@ -68,17 +68,15 @@
 
 [k-means 実装演習結果・考察(numpy)](./notebook/np_kmeans.ipynb)
 
-### 参考情報・関連レポート
+[k-means 実装演習結果(sklearn)](./notebook/skl_kmeans.ipynb)
+
+[k-NN 実装演習結果・考察(numpy)](./notebook/np_knn.ipynb)
+
+#### 参考情報・関連レポート
 
 [k近傍法とk平均法の違いと詳細](https://qiita.com/NoriakiOshita/items/698056cb74819624461f)
 
 アルゴリズムの対照による理解のために利用した。
-
-[k-means 実装演習結果(sklearn)](./notebook/skl_kmeans.ipynb)
-
-
-[k-NN 実装演習結果・考察(numpy)](./notebook/np_knn.ipynb)
-
 
 ## サポートベクターマシン
 
@@ -86,7 +84,7 @@
 
 [実装演習結果・考察(numpy)](./notebook/np_svm.ipynb)
 
-### 参考情報・関連レポート
+#### 参考情報・関連レポート
 
 [[機械学習]サポートベクトルマシン(SVM)について、できるだけ分かりやすくまとめていく②～ラグランジュの未定乗数法～](https://qiita.com/renesisu727/items/26fc3df7bc0d464867d5)
 
