@@ -50,7 +50,7 @@
 
 [要点のまとめ](./DAY2_CNN.md)
 
-[Image Classification(dlnd)][https://github.com/YoshiyukiKono/dlnd/tree/master/project-2]
+[Image Classification(dlnd)](https://github.com/YoshiyukiKono/dlnd/tree/master/project-2)
 
 過去に行った、CNNに関する基本的な実践の記録（Udacity Deep Learning Nanodegreeより）
 
@@ -87,7 +87,7 @@
 
 [DRL_P3_Collaboration-and-Competition](https://github.com/YoshiyukiKono/DRL_P3_Collaboration-and-Competition)
 
-過去に行った、DRLに関する基本的な実践の記録（Udacity Deep Learning Nanodegreeより）
+過去に行った、DRLに関する基本的な実践の記録（Udacity Deep Reinforcement Learning Nanodegreeより）
 
 ### NLP
 [要点のまとめ](./DAY4_NLP.md)
