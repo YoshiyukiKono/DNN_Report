@@ -33,6 +33,15 @@
 
 [実装演習結果(sklearn)](./notebook/skl_pca.ipynb)
 
+## 参考情報・関連レポート
+
+[データ解析 第5回： 主成分分析](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/dataan201905.pdf)
+
+射影についての説明を参考にした。
+
+[Rを用いた主成分分析](http://www1.tcue.ac.jp/home1/ymiyatagbt/principal.pdf)
+
+行列についての説明を参考にした。
 
 ## アルゴリズム
 
