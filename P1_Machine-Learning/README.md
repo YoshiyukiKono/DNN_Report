@@ -25,6 +25,12 @@
 
 [実装演習結果(sklearn)](./notebook/skl_logistic_regression.ipynb)
 
+## 参考情報・関連レポート
+
+[最尤推定量とは？初めての人にもわかる解説](https://ai-trend.jp/basic-study/estimator/maximum-likelihood-estimation/)
+
+尤度関数の式展開について参考にした。
+
 ## 主成分分析
 
 [要点のまとめ](./04_PCA.md)
