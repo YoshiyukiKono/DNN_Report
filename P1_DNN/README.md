@@ -76,14 +76,24 @@
 過去に行った、RNNに関する基本的な実践の記録（Udacity Deep Learning Nanodegreeより）
 
 ## DAY4
-  
-### 強化学習
-[要点のまとめ](./DAY4_1_RL.md)
+
+## Tensorflowの実装演習
+
+[要点のまとめ](./DAY4_TF.md)
 
 #### 実装演習結果・考察
 [4_1_tensorflow_codes](./notebook/lesson_4/4_1_tensorflow_codes.ipynb)
 
 [4_3_keras_codes](./notebook/lesson_4/4_3_keras_codes.ipynb)
+
+#### 参考情報・関連レポート
+
+[traffic_lights_detection_model_training](https://github.com/YoshiyukiKono/traffic_lights_detection_model_training)
+
+過去に行った、Tensorflowを用いた実践の記録（Udacity Self-driving Car Nanodegreeより）
+ 
+### 強化学習
+[要点のまとめ](./DAY4_RL.md)
 
 #### 参考情報・関連レポート
 [DRL_P1_Navigation](https://github.com/YoshiyukiKono/DRL_P1_Navigation)
