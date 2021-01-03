@@ -23,9 +23,9 @@
 
 ### 参考情報・関連レポート
 
-[dlnd](https://github.com/YoshiyukiKono/dlnd)
+[Neural Network(dlnd)](https://github.com/YoshiyukiKono/dlnd/tree/master/project-1)
 
-過去に行った、DLに関する基本的な実践の記録（Udacity Deep Learning Nanodegreeより）
+過去に行った、NNに関する基本的な実践の記録（Udacity Deep Learning Nanodegreeより）
  
   
 ## DAY2
@@ -50,6 +50,10 @@
 
 [要点のまとめ](./DAY2_CNN.md)
 
+[Image Classification(dlnd)][https://github.com/YoshiyukiKono/dlnd/tree/master/project-2]
+
+過去に行った、CNNに関する基本的な実践の記録（Udacity Deep Learning Nanodegreeより）
+
 ## DAY3
 
 ## 実装演習結果・考察
@@ -62,14 +66,16 @@
   
 ### 参考情報・関連レポート
   
+[Language Translation(dlnd)](https://github.com/YoshiyukiKono/dlnd/tree/master/project-4)
 
-  
+過去に行った、RNNに関する基本的な実践の記録（Udacity Deep Learning Nanodegreeより）
+
 ## DAY4
   
 ### 強化学習
 [要点のまとめ](./DAY4_1_RL.md)
 
-## 実装演習結果・考察　TODO
+## 実装演習結果・考察
 [4_1_tensorflow_codes](./notebook/lesson_4/4_1_tensorflow_codes.ipynb)
 
 [4_3_keras_codes](./notebook/lesson_4/4_3_keras_codes.ipynb)
@@ -96,3 +102,7 @@
 [要点のまとめ](./DAY4_OD_SS.md)
 
 ### 参考情報・関連レポート
+
+[Semantic Segmentation(CarND3)](https://github.com/YoshiyukiKono/CarND3/tree/master/Semantic-Segmentation)
+
+過去に行った、Semantic Segmentationに関する実践の記録（Udacity Self-driving Car Nanodegreeより）
