@@ -77,7 +77,7 @@
 
 ## DAY4
 
-## Tensorflowの実装演習
+### Tensorflowの実装演習
 
 [要点のまとめ](./DAY4_TF.md)
 
