@@ -11,6 +11,11 @@
 
 [実装演習結果(sklearn)](./notebook/skl_regression.ipynb)
 
+
+### 参考情報・関連レポート
+[５分でわかる！「回帰係数」の求め方（回帰直線の傾き）](https://blog.apar.jp/data-analysis/5967/#toc2)
+回帰係数の式と予測値導出について参考にした。
+
 ## 非線形モデル
 
 [要点のまとめ](./02_Nonlinear-regression.md)
