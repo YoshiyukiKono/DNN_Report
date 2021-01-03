@@ -12,7 +12,7 @@
   
 [要点のまとめ](./DAY1_NN.md)
 
-## 実装演習結果・考察
+#### 実装演習結果・考察
 [1_1_forward_propagation](./notebook/lesson_1/1_1_forward_propagation.ipynb)
 
 [1_2_back_propagation](./notebook/lesson_1/1_2_back_propagation.ipynb)
@@ -21,7 +21,7 @@
 
 [1_4_1_mnist_sample](./notebook/lesson_1/1_4_1_mnist_sample.ipynb)
 
-### 参考情報・関連レポート
+#### 参考情報・関連レポート
 
 [Neural Network(dlnd)](https://github.com/YoshiyukiKono/dlnd/tree/master/project-1)
 
@@ -30,7 +30,11 @@
   
 ## DAY2
 
-## 実装演習結果・考察
+### CNN
+
+[要点のまとめ](./DAY2_CNN.md)
+
+#### 実装演習結果・考察
 [2_1_network_modified](./notebook/lesson_2/2_1_network_modified.ipynb)
 
 [2_2_1_vanishing_gradient](./notebook/lesson_2/2_2_1_vanishing_gradient.ipynb)
@@ -46,9 +50,8 @@
 [2_7_double_convolution_network](./notebook/lesson_2/2_7_double_convolution_network.ipynb)
 
 [2_8_deep_convolution_net](./notebook/lesson_2/2_8_deep_convolution_net.ipynb)
-### CNN
 
-[要点のまとめ](./DAY2_CNN.md)
+#### 参考情報・関連レポート
 
 [Image Classification(dlnd)](https://github.com/YoshiyukiKono/dlnd/tree/master/project-2)
 
@@ -56,15 +59,15 @@
 
 ## DAY3
 
-## 実装演習結果・考察
+### RNN
+[要点のまとめ](./DAY3_RNN.md)
+
+#### 実装演習結果・考察
 [3_1_simple_RNN](./notebook/lesson_3/3_1_simple_RNN.ipynb)
 
 [3_3_predict_sin](./notebook/lesson_3/3_3_predict_sin.ipynb)
 
-### RNN
-[要点のまとめ](./DAY3_RNN.md)
-  
-### 参考情報・関連レポート
+#### 参考情報・関連レポート
   
 [Language Translation(dlnd)](https://github.com/YoshiyukiKono/dlnd/tree/master/project-4)
 
@@ -75,12 +78,12 @@
 ### 強化学習
 [要点のまとめ](./DAY4_1_RL.md)
 
-## 実装演習結果・考察
+#### 実装演習結果・考察
 [4_1_tensorflow_codes](./notebook/lesson_4/4_1_tensorflow_codes.ipynb)
 
 [4_3_keras_codes](./notebook/lesson_4/4_3_keras_codes.ipynb)
 
-### 参考情報・関連レポート
+#### 参考情報・関連レポート
 [DRL_P1_Navigation](https://github.com/YoshiyukiKono/DRL_P1_Navigation)
 
 [DRL_P2_Continuous-Control](https://github.com/YoshiyukiKono/DRL_P2_Continuous-Control)
@@ -92,7 +95,7 @@
 ### NLP
 [要点のまとめ](./DAY4_NLP.md)
 
-### 参考情報・関連レポート
+#### 参考情報・関連レポート
 
 [オルタナティブデータと自然言語処理(NLP)](https://github.com/YoshiyukiKono/dsml_01_nlp)
 
@@ -101,7 +104,7 @@
 ### Object Detection and Semantic Segmentation
 [要点のまとめ](./DAY4_OD_SS.md)
 
-### 参考情報・関連レポート
+#### 参考情報・関連レポート
 
 [Semantic Segmentation(CarND3)](https://github.com/YoshiyukiKono/CarND3/tree/master/Semantic-Segmentation)
 
