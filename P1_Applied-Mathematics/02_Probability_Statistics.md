@@ -125,9 +125,8 @@ P(X|μ) = μ^x(1 - μ)^(1-μ)
 P(x|λ, n) = { n! / (x!(n-x)!) } * λ^x(1 - λ)^(n-x)
 ```
 #### ガウス分布
-- 釣鐘型の
+- 釣鐘型の分布
 
-https://www.nli-research.co.jp/report/detail/id=63317?site=nli
 
 #### 連続型確率分布と離散型確率分布
 
