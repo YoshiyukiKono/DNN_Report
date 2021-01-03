@@ -51,8 +51,6 @@
   - 訓練データにすらフィッティングできなくなりバイアスは大
   - 訓練データへの依存度であるバリアンスは小 
 
-[バイアス-バリアンス分解：機械学習の性能評価](https://lms.quizgenerator.net/sys/index.php?action=quizPlayer&options=eyJzY29faWQiOiIxMjE3MTI3IiwiYmFja19saXN0Ijp0cnVlLCJoZWFkZXIiOnsiZ29vZCI6eyJ2aXNpYmxlIjp0cnVlfX19)
-
 ## データの分割とモデルの汎化性能測定
 
 ### 交差検証法 クロスバリデーション
