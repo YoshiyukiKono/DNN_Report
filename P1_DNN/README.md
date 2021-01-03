@@ -21,11 +21,12 @@
 
 [1_4_1_mnist_sample](./notebook/lesson_1/1_4_1_mnist_sample.ipynb)
 
-#### 関連記事レポート
+### 参考情報・関連レポート
 
-[Deep Learningの基本的な実践](https://github.com/YoshiyukiKono/dlnd)
-  
-### 関連参考
+[dlnd](https://github.com/YoshiyukiKono/dlnd)
+
+過去に行った、DLに関する基本的な実践の記録（Udacity Deep Learning Nanodegreeより）
+ 
   
 ## DAY2
 
@@ -59,9 +60,9 @@
 ### RNN
 [要点のまとめ](./DAY3_RNN.md)
   
-#### 関連記事レポート
+### 参考情報・関連レポート
   
-[オルタナティブデータと自然言語処理(NLP)](https://github.com/YoshiyukiKono/dsml_01_nlp)
+
   
 ## DAY4
   
@@ -73,16 +74,25 @@
 
 [4_3_keras_codes](./notebook/lesson_4/4_3_keras_codes.ipynb)
 
-#### 関連記事レポート
+### 参考情報・関連レポート
 [DRL_P1_Navigation](https://github.com/YoshiyukiKono/DRL_P1_Navigation)
 
 [DRL_P2_Continuous-Control](https://github.com/YoshiyukiKono/DRL_P2_Continuous-Control)
 
 [DRL_P3_Collaboration-and-Competition](https://github.com/YoshiyukiKono/DRL_P3_Collaboration-and-Competition)
 
+過去に行った、DRLに関する基本的な実践の記録（Udacity Deep Learning Nanodegreeより）
+
 ### NLP
 [要点のまとめ](./DAY4_NLP.md)
 
+### 参考情報・関連レポート
+
+[オルタナティブデータと自然言語処理(NLP)](https://github.com/YoshiyukiKono/dsml_01_nlp)
+
+過去に作成した、NLPに関するハンズオン資料
 
 ### Object Detection and Semantic Segmentation
 [要点のまとめ](./DAY4_OD_SS.md)
+
+### 参考情報・関連レポート
