@@ -65,6 +65,8 @@
 #### 実装演習結果・考察
 [3_1_simple_RNN](./notebook/lesson_3/3_1_simple_RNN.ipynb)
 
+[3_2_tf_languagemodel/predict_word](./notebook/lesson_3/3_2_tf_languagemodel/predict_word.ipynb)
+
 [3_3_predict_sin](./notebook/lesson_3/3_3_predict_sin.ipynb)
 
 #### 参考情報・関連レポート
