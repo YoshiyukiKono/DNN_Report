@@ -17,6 +17,13 @@
 
 [実装演習結果・考察(sklearn/Keras)](./notebook/skl_nonlinear_regression.ipynb)
 
+## 参考情報・関連レポート
+
+[バイアス-バリアンス分解：機械学習の性能評価](https://www.hellocybernetics.tech/entry/2017/01/24/100415)
+
+機械学習でのバイアスとバリアンスに関する詳細な概説・例示について参考にした。
+
+
 ## ロジスティック回帰
 
 [要点のまとめ](./03_Logistic-regression.md)
