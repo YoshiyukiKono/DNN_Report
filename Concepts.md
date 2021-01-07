@@ -30,8 +30,26 @@
 - 識別関数（決定的識別モデル）
   - 決定的な識別
   
-  ## 万能近似定理（universal approximation properties）
+## 万能近似定理（universal approximation properties）
+
+https://www.deeplearningbook.org/contents/mlp.html
   
-  https://www.deeplearningbook.org/contents/mlp.html
-  
-  ノーフリーランチ定理
+## 特徴量
+
+### 次元の呪い
+空間の次元が増えるのに対応して問題の複雑さが指数関数的に大きくなる。
+
+### 超級面現象
+高次元空間の場合、データが超球面上に分布しやすくなってしまう。
+
+### 特徴選択
+特徴量組み合わせ最適化。次元数を減らす。
+#### フィルタ法
+分散などの統計量を使って学習前に使用する特徴量を決定する。
+#### 埋め込み法
+L1正則化付き学習などによって学習と同時に使用する特徴量を決定する。
+#### ラッパー法
+選択と学習を交互に繰り返す。
+
+
+## ノーフリーランチ定理
